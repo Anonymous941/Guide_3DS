@@ -1,71 +1,71 @@
 ---
-title: "Formatting SD (Windows)"
+title: "Διαμόρφωση της SD (Windows)"
 ---
 
 {% include toc title="Πίνακας περιεχομένων" %}
 
-### Required Reading
+### Απαραίτητη ανάγνωση
 
-This is an add-on section for formatting an SD card to work with the 3DS.
+Αυτή είναι μια πρόσθετη ενότητα για τη διαμόρφωση μιας κάρτας SD έτσι, ώστε να λειτουργεί με το 3DS.
 
-If the 3DS already recognizes the SD card, this guide is not required.
+Εάν το 3DS αναγνωρίζει ήδη την κάρτα SD, δεν χρειάζεται να ακολουθήσετε αυτόν τον οδηγό.
 
-Αυτή η σελίδα είναι μόνο για χρήστες Windows. If you are not on Windows, check out the [Formatting SD (Linux)](formatting-sd-(linux)) or [Formatting SD (Mac)](formatting-sd-(mac)) pages.
+Αυτή η σελίδα αφορά μόνο χρήστες Windows. Εάν δεν χρησιμοποιείτε Windows, δείτε τις σελίδες [Διαμόρφωση της SD (Linux)](formatting-sd-(linux)) ή [Διαμόρφωση της SD (Mac)](formatting-sd-(mac)).
 
-### What You Need
+### Τι χρειάζεστε
 
-* **For SD cards 32GB or smaller:** the latest version of [SD Formatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
-* **For SD cards 64GB or larger:** The latest version of [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
+* **Για κάρτες SD των 32GB ή λιγότερων:** Την πιο πρόσφατη έκδοση του [SD Formatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
+* **Για κάρτες SD των 64GB ή περισσότερων:** Την πιο πρόσφατη έκδοση του [guiformat](http://ridgecrop.co.uk/index.htm?guiformat.htm)
 
-### Instructions (32GB or smaller)
+### Οδηγίες (32GB ή λιγότερα)
 
-1. Εισάγετε την κάρτα SD στον υπολογιστή σας
-1. If the SD card has any files and folders on it, copy everything to a folder on your computer
-1. Run `SD Card Formatter Setup` (the `.exe` file) in the downloaded `.zip` file with Administrator privileges, then install the program
-1. Run `SD Card Formatter` from the Start Menu
-1. Select your SD card's drive letter for "Select card"
+1. Εισαγάγετε την κάρτα SD στον υπολογιστή σας
+1. Εάν η κάρτα SD περιέχει τυχόν αρχεία και φακέλους, αντιγράψτε τα πάντα σε έναν φάκελο στον υπολογιστή σας
+1. Εκτελέστε το `SD Card Formatter Setup` (το αρχείο `.exe`) στο ληφθέν αρχείο `.zip` με δικαιώματα διαχειριστή και έπειτα, εγκαταστήστε το πρόγραμμα
+1. Εκτελέστε το `SD Card Formatter` από το μενού «Έναρξη»
+1. Επιλέξτε το γράμμα μονάδας της κάρτας SD σας για το «Select card»
 
-    Make sure you choose the correct drive letter, otherwise you might accidentally erase the wrong drive!
+    Βεβαιωθείτε ότι έχει επιλέξει το σωστό γράμμα μονάδας, διαφορετικά ενδέχεται να διαγράψετε ακούσια τον λάθος δίσκο!
     {: .notice--danger}
 
-1. Enter anything for "Volume label"
-1. Ensure that "Quick Format" is selected
-1. Click "Format"
-1. Click "OK"
-1. Wait for the format to finish
-1. Click "OK"
-1. Close SD Card Formatter
-1. If the SD card had any files and folders on it before the format, copy everything back from your computer
+1. Εισαγάγετε οτιδήποτε για το «Volume label»
+1. Βεβαιωθείτε ότι είναι επιλεγμένο το «Quick Format»
+1. Κάντε κλικ στο «Format»
+1. Κάντε κλικ στο «OK»
+1. Περιμένετε μέχρι να ολοκληρωθεί η διαμόρφωση
+1. Κάντε κλικ στο «OK»
+1. Κλείστε το SD Card Formatter
+1. Εάν η κάρτα SD περιείχε οποιαδήποτε αρχεία και φακέλους πριν από τη διαμόρφωση, αντιγράψτε τα πάντα από τον υπολογιστή στην κάρτα SD σας
 
-### Instructions (64GB or larger)
+### Οδηγίες (64GB ή περισσότερα)
 
-1. Εισάγετε την κάρτα SD στον υπολογιστή σας
-1. If the SD card has any files and folders on it, copy everything to a folder on your computer
-1. Run `guiformat.exe`
-1. Select your SD card's drive letter for "Drive"
+1. Εισαγάγετε την κάρτα SD στον υπολογιστή σας
+1. Εάν η κάρτα SD περιέχει τυχόν αρχεία και φακέλους, αντιγράψτε τα πάντα σε έναν φάκελο στον υπολογιστή σας
+1. Εκτελέστε το `guiformat.exe`
+1. Επιλέξτε το γράμμα μονάδας της κάρτας SD σας για το «Drive»
 
-    Make sure you choose the correct drive letter, otherwise you might accidentally erase the wrong drive!
+    Βεβαιωθείτε ότι έχει επιλέξει το σωστό γράμμα μονάδας, διαφορετικά ενδέχεται να διαγράψετε ακούσια τον λάθος δίσκο!
     {: .notice--danger}
 
-1. Select a size for "Allocation unit size"
-    + If the SD card is 64GB, choose 32768
-    + If the SD card is larger than 64GB, choose 65536
-1. Enter anything for "Volume label"
-1. Ensure that "Quick Format" is selected
-1. Click "Start"
-1. Click "OK"
-1. Wait for the format to finish
-1. Click "Close"
-1. If the SD card had any files and folders on it before the format, copy everything back from your computer
+1. Επιλέξτε ένα μέγεθος για το «Allocation unit size»
+    + Εάν η κάρτα SD είναι 64GB, επιλέξτε 32768
+    + Εάν η κάρτα SD είναι μεγαλύτερη από 64GB, επιλέξτε 65536
+1. Εισαγάγετε οτιδήποτε για το «Volume label»
+1. Βεβαιωθείτε ότι είναι επιλεγμένο το «Quick Format»
+1. Κάντε κλικ στο «Start»
+1. Κάντε κλικ στο «OK»
+1. Περιμένετε μέχρι να ολοκληρωθεί η διαμόρφωση
+1. Κάντε κλικ στο «Close»
+1. Εάν η κάρτα SD περιείχε οποιαδήποτε αρχεία και φακέλους πριν από τη διαμόρφωση, αντιγράψτε τα πάντα από τον υπολογιστή στην κάρτα SD σας
 
-### Troubleshooting
+### Επίλυση προβλημάτων
 
-* guiformat shows the error "Failed to open device: GetLastError()=32"
-    + Close everything that may be using the SD card, such as any File Explorer windows.
-    + If this issue persists, try reformatting the card to NTFS in File Explorer, close that window when it's done, and re-attempt the guiformat process.
+* Το guiformat εμφανίζει το σφάλμα «Failed to open device: GetLastError()=32»
+    + Κλείστε οτιδήποτε μπορεί να χρησιμοποιεί την κάρτα SD, όπως κάποιο παράθυρο της Εξερεύνησης αρχείων.
+    + Εάν αυτό το ζήτημα επιμένει, δοκιμάστε να διαμορφώσετε εκ νέου την κάρτα σε NTFS στην Εξερεύνηση αρχείων, κλείστε το παράθυρο όταν ολοκληρωθεί η διαμόρφωση και δοκιμάστε ξανά τη διαδικασία με το guiformat.
 
-* guiformat shows the error "GetLastError()=1117"
-    + Your SD card write-protection switch may be [enabled](/images/sdlock.png). The lock must be flipped upwards to allow writing to the SD card (including formatting).
+* Το guiformat εμφανίζει το σφάλμα «GetLastError()=1117»
+    + Ο διακόπτης προστασίας από εγγραφή της κάρτας SD ενδέχεται να είναι [ενεργοποιημένος](/images/sdlock.png). Ο διακόπτης πρέπει να αναστραφεί προς τα πάνω για να επιτραπεί η εγγραφή στην κάρτα SD (συμπεριλαμβανομένης της διαμόρφωσης).
 
-* SD card remains undetected by console or continues to display the wrong capacity after formatting
-    + Your SD card may be partitioned or have unallocated space. Follow the instructions [here](https://wiki.hacks.guide/wiki/SD_Clean/Windows) to reformat your SD card.
+* Η κάρτα SD παραμένει μη ανιχνεύσιμη από την κονσόλα ή συνεχίζει να εμφανίζει εσφαλμένη χωρητικότητα μετά τη διαμόρφωση
+    + Η κάρτα SD ενδέχεται να έχει διαμεριστεί ή να περιέχει μη εκχωρημένο χώρο. Ακολουθήστε τις οδηγίες [εδώ](https://wiki.hacks.guide/wiki/SD_Clean/Windows) για την εκ νέου διαμόρφωση της κάρτας SD σας.

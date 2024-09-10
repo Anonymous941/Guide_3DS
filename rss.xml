@@ -2,14 +2,14 @@
 <rss version="2.0">
 	<channel>
 		<title>Plailect Guide Feed</title>
-		<lastBuildDate>Fri, 17 Mar 2023 02:57:31 +0000</lastBuildDate>
-		<link>https://github.com/Plailect/Guide_3DS/</link>
+		<lastBuildDate>Sun, 14 Jul 2024 20:43:52 +0000</lastBuildDate>
+		<link>https://github.com/hacks-guide/Guide_3DS/</link>
 		<item>
 			<title>2.58-0_11.16_NEW.firm</title>
 			<description>2.58-0_11.16_NEW.firm</description>
 			<guid>173DC3EA3CCDF8F34E7D4A9AA612D6171230E52A</guid>
 			<link>magnet:?xt=urn:btih:173DC3EA3CCDF8F34E7D4A9AA612D6171230E52A</link>
-			<pubDate>Thu, 16 Mar 2023 18:09:02 +0000</pubDate>
+			<pubDate>Sun, 14 Jul 2024 20:40:35 +0000</pubDate>
 			<contentLength>999424</contentLength>
 			<infoHash>173DC3EA3CCDF8F34E7D4A9AA612D6171230E52A</infoHash>
 			<magnetURI>magnet:?xt=urn:btih:173DC3EA3CCDF8F34E7D4A9AA612D6171230E52A</magnetURI>
@@ -17,64 +17,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -84,7 +84,7 @@
 			<description>2.58-0_11.16_OLD.firm</description>
 			<guid>1E3227EA262DD978C4AA61FC1530A055A4A06098</guid>
 			<link>magnet:?xt=urn:btih:1E3227EA262DD978C4AA61FC1530A055A4A06098</link>
-			<pubDate>Thu, 16 Mar 2023 18:06:56 +0000</pubDate>
+			<pubDate>Sun, 14 Jul 2024 20:40:35 +0000</pubDate>
 			<contentLength>966656</contentLength>
 			<infoHash>1E3227EA262DD978C4AA61FC1530A055A4A06098</infoHash>
 			<magnetURI>magnet:?xt=urn:btih:1E3227EA262DD978C4AA61FC1530A055A4A06098</magnetURI>
@@ -92,64 +92,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -159,7 +159,7 @@
 			<description>11.15.0-47J_ctrtransfer_n3ds.zip</description>
 			<guid>986B454CAB2D9F27DAA63D4291F61AED039871D2</guid>
 			<link>magnet:?xt=urn:btih:986B454CAB2D9F27DAA63D4291F61AED039871D2</link>
-			<pubDate>Thu, 17 Feb 2022 10:48:16 +0000</pubDate>
+			<pubDate>Sun, 03 Apr 2022 21:55:56 +0000</pubDate>
 			<contentLength>1042101140</contentLength>
 			<infoHash>986B454CAB2D9F27DAA63D4291F61AED039871D2</infoHash>
 			<magnetURI>magnet:?xt=urn:btih:986B454CAB2D9F27DAA63D4291F61AED039871D2</magnetURI>
@@ -167,64 +167,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -242,64 +242,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -317,64 +317,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -392,64 +392,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -467,64 +467,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -542,64 +542,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -617,64 +617,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -692,64 +692,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -767,64 +767,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -848,6 +848,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -863,10 +866,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -878,13 +890,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -893,13 +920,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -923,6 +962,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -938,10 +980,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -953,13 +1004,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -968,13 +1034,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -998,6 +1076,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1013,10 +1094,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1028,13 +1118,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1043,13 +1148,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1073,6 +1190,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1088,10 +1208,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1103,13 +1232,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1118,13 +1262,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1148,6 +1304,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1163,10 +1322,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1178,13 +1346,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1193,13 +1376,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1223,6 +1418,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1238,10 +1436,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1253,13 +1460,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1268,13 +1490,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1298,6 +1532,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1313,10 +1550,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1328,13 +1574,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1343,13 +1604,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1373,6 +1646,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1388,10 +1664,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1403,13 +1688,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1418,13 +1718,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1448,6 +1760,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1463,10 +1778,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1478,13 +1802,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1493,13 +1832,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1523,6 +1874,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1538,10 +1892,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1553,13 +1916,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1568,13 +1946,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1598,6 +1988,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1613,10 +2006,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1628,13 +2030,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1643,13 +2060,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1673,6 +2102,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1688,10 +2120,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1703,13 +2144,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1718,13 +2174,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1748,6 +2216,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1763,10 +2234,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1778,13 +2258,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1793,13 +2288,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1823,6 +2330,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -1838,10 +2348,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -1853,13 +2372,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -1868,13 +2402,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1892,64 +2438,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -1967,64 +2513,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2042,64 +2588,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2117,64 +2663,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2192,64 +2738,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2267,64 +2813,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2342,64 +2888,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2417,64 +2963,64 @@
 			<trackers>
 				<group order="random">
 					<tracker>
-						udp://open.tracker.cl:1337/announce
-					</tracker>
-					<tracker>
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
-						udp://9.rarbg.com:2810/announce
+						udp://open.demonii.com:1337/announce
 					</tracker>
 					<tracker>
-						udp://exodus.desync.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://www.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.torrent.eu.org:451/announce
-					</tracker>
-					<tracker>
-						udp://tracker.tiny-vps.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.pomf.se:80/announce
-					</tracker>
-					<tracker>
-						udp://tracker.openbittorrent.com:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.moeking.me:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.dler.org:6969/announce
-					</tracker>
-					<tracker>
-						udp://tracker.bitsearch.to:1337/announce
-					</tracker>
-					<tracker>
-						udp://tracker-udp.gbitt.info:80/announce
-					</tracker>
-					<tracker>
-						udp://retracker.netbynet.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://retracker.lanta-net.ru:2710/announce
-					</tracker>
-					<tracker>
-						udp://opentor.org:2710/announce
+						udp://open.tracker.cl:1337/announce
 					</tracker>
 					<tracker>
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
-						udp://mts.tvbit.co:6969/announce
+						udp://tracker.torrent.eu.org:451/announce
+					</tracker>
+					<tracker>
+						udp://exodus.desync.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://tracker.tiny-vps.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
-						udp://bt2.archive.org:6969/announce
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
+					</tracker>
+					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
+					</tracker>
+					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2498,6 +3044,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2513,10 +3062,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2528,13 +3086,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2543,13 +3116,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2573,6 +3158,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2588,10 +3176,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2603,13 +3200,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2618,13 +3230,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2648,6 +3272,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2663,10 +3290,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2678,13 +3314,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2693,13 +3344,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2723,6 +3386,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2738,10 +3404,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2753,13 +3428,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2768,13 +3458,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2798,6 +3500,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2813,10 +3518,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2828,13 +3542,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2843,13 +3572,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2873,6 +3614,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2888,10 +3632,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2903,13 +3656,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2918,13 +3686,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -2948,6 +3728,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -2963,10 +3746,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -2978,13 +3770,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -2993,13 +3800,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3023,6 +3842,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3038,10 +3860,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3053,13 +3884,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3068,13 +3914,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3098,6 +3956,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3113,10 +3974,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3128,13 +3998,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3143,13 +4028,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3173,6 +4070,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3188,10 +4088,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3203,13 +4112,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3218,13 +4142,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3248,6 +4184,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3263,10 +4202,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3278,13 +4226,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3293,13 +4256,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3323,6 +4298,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3338,10 +4316,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3353,13 +4340,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3368,13 +4370,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3398,6 +4412,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3413,10 +4430,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3428,13 +4454,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3443,13 +4484,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3473,6 +4526,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3488,10 +4544,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3503,13 +4568,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3518,13 +4598,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3548,6 +4640,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3563,10 +4658,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3578,13 +4682,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3593,13 +4712,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3623,6 +4754,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3638,10 +4772,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3653,13 +4796,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3668,13 +4826,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3698,6 +4868,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3713,10 +4886,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3728,13 +4910,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3743,13 +4940,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3773,6 +4982,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3788,10 +5000,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3803,13 +5024,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3818,13 +5054,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3848,6 +5096,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3863,10 +5114,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3878,13 +5138,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3893,13 +5168,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3923,6 +5210,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -3938,10 +5228,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -3953,13 +5252,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -3968,13 +5282,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -3998,6 +5324,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4013,10 +5342,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4028,13 +5366,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4043,13 +5396,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4073,6 +5438,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4088,10 +5456,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4103,13 +5480,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4118,13 +5510,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4148,6 +5552,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4163,10 +5570,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4178,13 +5594,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4193,13 +5624,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4223,6 +5666,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4238,10 +5684,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4253,13 +5708,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4268,13 +5738,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4298,6 +5780,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4313,10 +5798,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4328,13 +5822,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4343,13 +5852,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4373,6 +5894,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4388,10 +5912,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4403,13 +5936,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4418,13 +5966,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4448,6 +6008,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4463,10 +6026,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4478,13 +6050,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4493,13 +6080,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4523,6 +6122,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4538,10 +6140,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4553,13 +6164,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4568,13 +6194,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4598,6 +6236,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4613,10 +6254,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4628,13 +6278,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4643,13 +6308,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4673,6 +6350,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4688,10 +6368,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4703,13 +6392,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4718,13 +6422,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4748,6 +6464,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4763,10 +6482,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4778,13 +6506,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4793,13 +6536,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4823,6 +6578,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4838,10 +6596,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4853,13 +6620,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4868,13 +6650,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4898,6 +6692,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4913,10 +6710,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -4928,13 +6734,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -4943,13 +6764,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -4973,6 +6806,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -4988,10 +6824,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5003,13 +6848,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5018,13 +6878,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -5048,6 +6920,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -5063,10 +6938,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5078,13 +6962,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5093,13 +6992,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -5123,6 +7034,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -5138,10 +7052,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5153,13 +7076,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5168,13 +7106,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -5198,6 +7148,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -5213,10 +7166,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5228,13 +7190,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5243,13 +7220,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -5273,6 +7262,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -5288,10 +7280,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5303,13 +7304,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5318,13 +7334,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>
@@ -5348,6 +7376,9 @@
 						udp://tracker.opentrackr.org:1337/announce
 					</tracker>
 					<tracker>
+						udp://open.demonii.com:1337/announce
+					</tracker>
+					<tracker>
 						udp://9.rarbg.com:2810/announce
 					</tracker>
 					<tracker>
@@ -5363,10 +7394,19 @@
 						udp://tracker.tiny-vps.com:6969/announce
 					</tracker>
 					<tracker>
+						udp://retracker01-msk-virt.corbina.net:80/announce
+					</tracker>
+					<tracker>
 						udp://tracker.pomf.se:80/announce
 					</tracker>
 					<tracker>
+						udp://opentracker.io:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker.openbittorrent.com:6969/announce
+					</tracker>
+					<tracker>
+						udp://open.u-p.pw:6969/announce
 					</tracker>
 					<tracker>
 						udp://tracker.moeking.me:6969/announce
@@ -5378,13 +7418,28 @@
 						udp://tracker.bitsearch.to:1337/announce
 					</tracker>
 					<tracker>
+						udp://tracker.0x7c0.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://tracker-udp.gbitt.info:80/announce
+					</tracker>
+					<tracker>
+						udp://run.publictracker.xyz:6969/announce
 					</tracker>
 					<tracker>
 						udp://retracker.netbynet.ru:2710/announce
 					</tracker>
 					<tracker>
+						udp://oh.fuuuuuck.com:6969/announce
+					</tracker>
+					<tracker>
 						udp://retracker.lanta-net.ru:2710/announce
+					</tracker>
+					<tracker>
+						udp://moonburrow.club:6969/announce
+					</tracker>
+					<tracker>
+						udp://epider.me:6969/announce
 					</tracker>
 					<tracker>
 						udp://opentor.org:2710/announce
@@ -5393,13 +7448,25 @@
 						udp://open.stealth.si:80/announce
 					</tracker>
 					<tracker>
+						https://tracker.tamersunion.org:443/announce
+					</tracker>
+					<tracker>
 						udp://mts.tvbit.co:6969/announce
+					</tracker>
+					<tracker>
+						https://tracker.loligirl.cn:443/announce
 					</tracker>
 					<tracker>
 						udp://explodie.org:6969/announce
 					</tracker>
 					<tracker>
+						http://tracker1.bt.moack.co.kr:80/announce
+					</tracker>
+					<tracker>
 						udp://bt2.archive.org:6969/announce
+					</tracker>
+					<tracker>
+						http://tracker.ipv6tracker.org:80/announce
 					</tracker>
 				</group>
 			</trackers>

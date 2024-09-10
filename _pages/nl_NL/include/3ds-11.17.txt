@@ -1,5 +1,0 @@
-**The latest 3DS firmware is 11.17.0**. Dit is wat je moet weten:
-
-+ If your console is running *Luma 10.2.1 or higher*, it is *100% safe* to update. You can check your Luma version by holding (Select) while booting your console.
-+ If your console is on an older Luma version, you should [update Luma](checking-for-cfw) before you update your console to 11.17.0.
-+ If your console does not yet have custom firmware, you can install it now on all firmwares with this guide.

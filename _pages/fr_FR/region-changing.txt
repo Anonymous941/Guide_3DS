@@ -21,7 +21,7 @@ If you change the region of your console:
 
 + Vous ne pourrez plus utiliser votre Identifiant Nintendo Network (NNID) (si vous en possédez un). Les Identifiants Nintendo Network (NNID) sont verrouillés sur la région dans laquelle ils ont été créés.
 + Vous ne pourrez peut-être pas accéder à l'eShop, même si vous [supprimez votre compte eShop](https://en-americas-support.nintendo.com/app/answers/detail/a_id/74/~/how-to-delete-a-nintendo-eshop-account) au préalable. En effet, certains titres ont tendance à rester liés à la 3DS, même après la suppression du compte (surtout sur New 3DS).
-    + This is still relevant because, while purchases can no longer be made on eShop, game updates are still being provided. Des mises à jour sont généralement nécessaires pour le jeu en ligne.
+    + This is still relevant because, while purchases can no longer be made on eShop, game updates are still being provided. Updates may provide extra content or fix bugs.
     + Cette logique s'étend aux Transferts de données, ce qui signifie que vous ne serez pas en mesure d'effectuer un Transfert de données d'une 3DS USA vers une 3DS avec région modifiée de JPN vers USA.
     + Pokémon Bank also requires working eShop access.
     + Cela étant dit, le Transfert de données et les mises à jour de jeu sont de toute façon verrouillées (par exemple, l'eShop japonais ne possède que des mises à jour de jeux japonais).
@@ -32,13 +32,12 @@ If you change the region of your console:
 
 ## Ce dont vous avez besoin
 
-Pour télécharger les images CTRTransfer sur cette page, vous aurez besoin d'un client torrent comme [qBittorrent](https://www.qbittorrent.org/download.php) ou [Deluge](http://dev.deluge-torrent.org/wiki/Download).
-{: .notice--warning}
-
 * La dernière version de [GodMode9]
 (https://github.com/d0k3/GodMode9/releases/latest) (le fichier GodMode9 `.zip`)
 * The latest release of [FBI](https://github.com/lifehackerhansol/FBI/releases/download/2.6.1/FBI.3dsx) (direct download)
 * The latest release of [faketik](https://github.com/ihaveamac/faketik/releases/latest) *(the `.3dsx` file)*
+* A torrent client like [qBittorrent](https://www.qbittorrent.org/download.php) or [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+    * If you already have a torrent client, you do not need to download a new one
 * The 11.15.0 CTRTransfer image for your console type of the region that you want to change to (e.g. Download "New 3DS or 2DS - USA" if you have a New 3DS and want to change your region to USA)
 {% include_relative include/ctrtransfer-images.txt %}
 

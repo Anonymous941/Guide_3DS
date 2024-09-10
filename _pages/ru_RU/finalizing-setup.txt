@@ -35,8 +35,8 @@ If your previous CFW setup was EmuNAND-based and you wish to move the contents o
 
 ### Что понадобится
 
-* [finalize_helper.firm]({{ base_path }}/assets/finalize_helper.firm) (direct download)
-* [finalize.romfs]({{ base_path }}/assets/finalize.romfs) (direct download)
+* [x_finalize_helper.firm](https://github.com/hacks-guide/finalize/releases/latest/download/x_finalize_helper.firm) (direct download)
+* [finalize.romfs](https://github.com/hacks-guide/finalize/releases/latest/download/finalize.romfs) (direct download)
 
 ### Инструкция
 
@@ -48,7 +48,7 @@ In this section, you will copy the files necessary to follow the rest of the ins
 1. Вставьте SD-карту в компьютер
 1. Copy `finalize.romfs` to the root of your SD card
 1. Open the `luma` folder on your SD card and create a folder named `payloads` inside, if it does not already exist
-1. Copy `finalize_helper.firm` to the `payloads` folder
+1. Copy `x_finalize_helper.firm` to the `payloads` folder
 1. Reinsert your SD card into your console
 
 The screenshot below indicates the minimum SD card layout that is required to follow this page. You may have extra files or folders on your SD card, depending on your previous setup or the method that you followed.
@@ -84,10 +84,8 @@ In this section, you will sync your 3DS internal clock with the actual time and 
 In this section, you will use a series of scripts to automate homebrew installation, SD card cleanup, and system file backup.
 
 1. Power off your console
-1. Press and hold (Start), and while holding (Start), power on your console. This will launch the Finalizing Setup Helper
-    + If you boot to the Luma3DS configuration menu, you held SELECT instead of START
+1. Press and hold (X), and while holding (X), power on your console. This will launch the Finalizing Setup Helper
     + If you boot to the HOME Menu, your `payloads` folder may be incorrectly spelled or in the wrong location
-    + If you see a "Luma3DS Chainloader" menu, use the D-Pad and (A) buttons to navigate to and select `finalize_helper` from the list
     + If you encounter an error, consult the [troubleshooting](troubleshooting#finalizing-setup) page
 1. If the Helper was successful, your console will boot into GodMode9
     + From this point forward, you can access GodMode9 by holding START while powering on your console
@@ -115,18 +113,6 @@ You're done! Custom firmware is now fully configured on your console.
 
 Trying to figure out what to do with your newly modded device? Visit [our wiki](https://wiki.hacks.guide/wiki/3DS:Things_to_do)!
 {: .notice--info}
-
-{% capture notice-6 %}
-As you may already know, Nintendo is shutting down Nintendo Network services for the Nintendo 3DS and Wii U on April 8th, 2024. This means that online play servers and SpotPass content (e.g. in StreetPass Mii Plaza, Super Mario Maker, and the Pokémon games) will be rendered inaccessible after this date.
-
-The revival service [Pretendo](https://pretendo.network/) is aiming to provide these services after Nintendo shuts down the official one. However, their efforts require the collection of data from Nintendo Network servers in order to understand how they work, which can only be accomplished before the network shutdown.
-
-If you would like to assist with this effort, you can contribute dumps of network data while the official servers are still online.
-- For information about preserving **SpotPass data** (data routed through Nintendo's SpotPass feature), see [the SpotPass Archive project](https://spotpassarchive.github.io/). This project is not affiliated with Pretendo, but provides a more user-friendly instruction and submission format. **SpotPass dumps do not contain any sensitive information.**
-- For information about preserving **game and HTTP packets** (data used by games for servers and other features), see [Pretendo's Network Dumps page](https://pretendo.network/docs/network-dumps). **Please note that this data may contain sensitive information, and that retrieving this data is more technically challenging.**
-{% endcapture %}
-
-<div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 ### Information and Notes
 

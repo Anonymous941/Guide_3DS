@@ -221,11 +221,6 @@ $(document).ready(function() {
     }
   }
 
-  if((window.location.href.indexOf("/" + "key-information") > -1) || (window.location.href.indexOf("/" + "get-started") > -1)) {
-    localStorage.setItem('method', methods[method]);
-    sidebar_shown = true;
-  }
-
   var device, method;
   if(!(method = localStorage.getItem('method'))){
     sidebar_shown = false;

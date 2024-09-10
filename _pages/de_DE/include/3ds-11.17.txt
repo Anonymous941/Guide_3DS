@@ -1,5 +1,0 @@
-**Die neueste 3DS Firmware ist 11.17.0**. Hier ist, was du wissen solltest:
-
-+ Falls auf deiner Konsole *Luma 10.2.1 oder höher* läuft ist das Updaten zu 100% sicher. Du kannst deine Luma Version überprüfen, indem du beim Starten deiner Konsole (Select) gedrückt hältst.
-+ Falls auf deiner Konsole eine ältere Luma Version installiert ist, solltest du [Luma updaten](checking-for-cfw) bevor du deine Konsole auf 11.17.0 updatest.
-+ Wenn deine Konsole noch keine Custom Firmware besitzt, kannst du sie jetzt auf allen Firmwares mit dieser Anleitung installieren.

@@ -35,8 +35,8 @@ Ha az előző egyedi firmware rendszered EmuNAND alapú volt és szeretnéd az E
 
 ### Amire szükséged lesz
 
-* [finalize_helper.firm]({{ base_path }}/assets/finalize_helper.firm) (közvetlen letöltés)
-* [finalize.romfs]({{ base_path }}/assets/finalize.romfs) (közvetlen letöltés)
+* [x_finalize_helper.firm](https://github.com/hacks-guide/finalize/releases/latest/download/x_finalize_helper.firm) (közvetlen letöltés)
+* [finalize.romfs](https://github.com/hacks-guide/finalize/releases/latest/download/finalize.romfs) (közvetlen letöltés)
 
 ### Utasítások
 
@@ -48,7 +48,7 @@ Ebben a fejezetben fel fogod másolni az ahhoz szükséges fájlokat, hogy köve
 1. Helyezd az SD kártyád a számítógépbe
 1. Másold az `finalize.romfs` fájlt az SD kártyád gyökerébe
 1. Nyisd meg a `luma` mappát az SD kártyádon és hozz létre egy mappát `payloads` néven benne, ha még nem létezik
-1. Másold át a `finalize_helper.firm` fájlt a `payloads` mappába
+1. Másold át az `x_finalize_helper.firm` fájlt a `payloads` mappába
 1. Tedd vissza az SD kártyád a konzoldba
 
 Az alábbi képernyőképek mutatják az SD kártya minimális elrendezését ahhoz, hogy ezt az útmutatót követni tudd. Lehetnek extra fájljaid és mappáid az SD kártyádon, függően a korábbi telepítésedtől vagy metódustól, amit követtél.
@@ -84,10 +84,8 @@ Ebben a fejezetben szinkronizálni fogod a 3DS belső óráját az aktuális id�
 Ebben a fejezetben szkripteket fogsz használni arra, hogy automatizáld a homebrew telepítést, az SD kártya takarítást és a rendszer mentést.
 
 1. Kapcsold ki a konzolod
-1. Nyomd le és tartsd nyomva a (Start) gombot, és a (Start) nyomva tartása mellett kapcsold be a konzolod. Ez elindítja a Finalizing Setup Helper-t
-    + Ha a Luma3DS konfigurációs menübe bootoltál, a SELECT-et tartottad nyomva a START helyett
+1. Nyomd le és tartsd nyomva az (X) gombot, és az (X) nyomva tartása mellett kapcsold be a konzolod. Ez elindítja a Finalizing Setup Helper-t
     + Ha a HOME menübe bootoltál, akkor lehet hogy a `payloads` mappád neve elírt, vagy rossz helyen van
-    + Ha a "Luma3DS Chainloader" menüt látod, használd a D-Pad-et és az (A) gombot a `finalize_helper` kiválasztásához a listából
     + Ha hibát kapsz, tekintsd meg a [hibaelhárítás](troubleshooting#finalizing-setup) oldalt
 1. Ha a Helper sikeres volt, a konzolodnak ezt követően be kell bootolni a GodMode9-be
     + Ettől a ponttól kezdve a GodMode9-et a START gomb bekapcsolás melletti nyomva tartásával éred el
@@ -115,18 +113,6 @@ Kész vagy! Az egyedi firmware most már teljesen be van állítva a konzolodon.
 
 Próbálod kitalálni, mit tegyél a frissen módosított eszközöddel? Látogasd meg a [wiki-nket](https://wiki.hacks.guide/wiki/3DS:Things_to_do)!
 {: .notice--info}
-
-{% capture notice-6 %}
-Talán már tudod, hogy a Nintendo leállítja a Nintendo Network szolgáltatásokat a Nintendo 3DS-hez és a Wii U-hoz 2024 április 8-án. Ez azt jelenti, hogy az online játék szerverek és a SpotPass tartalom (pl. a StreetPass Mii Plaza, Super Mario Maker, és the Pokémon játékok) elérhetetlenné válik az után a dátum után.
-
-A továbbélő szolgáltatás [Pretendo](https://pretendo.network/) célja, hogy biztosítsa ezeket a szolgáltatásokat, miután a Nintendo leállította a hivatalosakat. Azonban az erőfeszítéseik adatok gyűjtését igénylik a Nintendo Network szervereken annak érdekében, hogy megérthető legyen, hogyan működnek, ami csak az előtt tehető meg, hogy azt leállították.
-
-Ha szeretnéd támogatni ezt az erőfeszítést, akkor részt vehetsz hálózati adat dump-okkal, amíg az online szerverek elérhetők.
-- A **SpotPass adat** megőrzéséhez kapcsolódó információkért (adat, ami a Nintendo SpotPass funkcióján kerül rooutlásra), tekintsd meg[a SpotPass Archive projektet](https://spotpassarchive.github.io/). Ez a projekt nem kapcsolódik a Pretendo-hoz, de sokkal felhasználóbarátabb útmutatót és beküldési formát biztosít. **A SpotPass dump-ok nem tartalmaznak semmilyen érzékeny információt.**
-- **A játék és HTTPcsomagok** megőrzéséhez kapcsolódó információkért (adatok, amit a játékok használnak szerer és egyéb funkciükhoz), látogasd meg a [Pretendo Network Dumps oldalát](https://pretendo.network/docs/network-dumps). **Kérjük vedd figyelembe, hogy ez az adat tartalmazhat szenzitív információt és ennek az adatnak a megszerzése technikailag nagyobb kihívás.**
-{% endcapture %}
-
-<div class="notice--info">{{ notice-6 | markdownify }}</div>
 
 ### Információk és megjegyzések
 

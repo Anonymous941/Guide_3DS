@@ -1,5 +1,0 @@
-**L'ultima versione del software 3DS è 11.17.0**. Ecco cosa dovresti sapere:
-
-+ Se la tua console sta eseguendo *Luma 10.2.1 o più recente*, è *al 100% sicuro* aggiornare. Puoi controllare la versione di Luma tenendo premuto (Select) durante l'avvio della console.
-+ Se la tua console ha una versione precedente di Luma, dovresti [aggiornarla](checking-for-cfw) prima di aggiornare la tua console alla versione 11.17.0.
-+ Se la tua console non ha ancora installato un custom firmware, con questa guida è possibile installarlo su ogni versione del software.

@@ -21,7 +21,7 @@ Ha módosítod a régióját a konzolodnak:
 
 + Nem fogod tudni használni az NNID azonosítód (ha van ilyened). Az NNID-k ahhoz a régióhoz kötöttek, ahol létre lettek hozva.
 + Elképzelhető, hogy nem fogod elérni az eShop-ot, még akkor sem ha [törlöd az eShop fiókod](https://en-americas-support.nintendo.com/app/answers/detail/a_id/74/~/how-to-delete-a-nintendo-eshop-account) előtte. Ez azért van, mert néhány cím linkelt marad a 3DS-hez, még akkor is ha a fiók törlésre kerül (különösen New 3DS-en).
-    + Ez továbbra is releváns; bár az eShop-ban már nem lehet vásárolni, a játék frissítések továbbra is letölthetők. A frissítések többnyire szükségesek az online játékhoz.
+    + Ez továbbra is releváns; bár az eShop-ban már nem lehet vásárolni, a játék frissítések továbbra is letölthetők. A frissítések tartalmazhatnak extra tartalmat vagy hibajavításokat.
     + Ez a logika kiterjed a rendszer átvitelekre, azaz nem fogsz tudni rendszer átvitelt végre hajtani egy USA 3DS-ről egy régió-cserélt JPN-2-USA 3DS-re.
     + A Pokémon Bank-nak szintén működő eShop hozzáférésre van szüksége.
     + Ahogy korábban elmondásra került, a rendszerátvitel és játék frissítése régió zároltak (pl. a japán eShop csak japán játék frissítéseket tartalmaz).
@@ -32,12 +32,11 @@ Ha módosítod a régióját a konzolodnak:
 
 ### Amire szükséged lesz
 
-A CTRTransfer képfájlok letöltéséhez szükséged lesz egy torrent kliensre, mint a [qBittorrent](https://www.qbittorrent.org/download.php) vagy a [Deluge](http://dev.deluge-torrent.org/wiki/Download).
-{: .notice--warning}
-
 * A [GodMode9](https://github.com/d0k3/GodMode9/releases/latest) legújabb kiadása (a GodMode9 `.zip` fájl)
 * Az [FBI](https://github.com/lifehackerhansol/FBI/releases/download/2.6.1/FBI.3dsx) legfrissebb kiadása (közvetlen letöltés)
 * A [faketik](https://github.com/ihaveamac/faketik/releases/latest) legújabb kiadása *(a`.3dsx` fájl)*
+* Egy torrent kliens, mint például a [qBittorrent](https://www.qbittorrent.org/download.php) vagy a [Deluge](http://dev.deluge-torrent.org/wiki/Download)
+    * Ha már van torrent kliensed, nem szükséges letöltened egy újat
 * A 11.15.0 CTRTransfer képfájlok közül a konzolod típusának és a régiónak, amire módosítani szeretnél megfelelő verziója (pl. Töltsd le a "New 3DS or 2DS - USA" fájlt, ha vagy egy New 3DS-ed és szeretnéd a régiódat USA-ra módosítani.)
 {% include_relative include/ctrtransfer-images.txt %}
 
